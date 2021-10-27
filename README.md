@@ -20,8 +20,28 @@ But if added them to one chart, that will let people know how many you have did 
 
 ## Support Communities
 
+### Code
+
 + GitHub
 + Gitee
-+ OpenStreetMap
-+ Wikipedia
++ ~~GitLab (Only main site)~~ (Considering)
++ ~~Other private git but famous，such as linux kernel~~ (Considering)
+
+### Wiki
+
++ Wikimedia Project (All language wiki is include)
++ Arch Wiki
+
+### Translation
+
 + TranslationWiki
+
+### Others
+
++ ~~CTAN~~ (Considering)
++ OpenStreetMap
+
+## Won't Support
+
++ Fans wiki (For example, Minecraft wiki, 萌娘百科)
++ Non-neutral or AD wiki (For example, 百度百科，互动百科)
