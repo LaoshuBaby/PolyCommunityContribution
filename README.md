@@ -49,3 +49,8 @@ But if added them to one chart, that will let people know how many you have did 
 
 + Fans wiki (For example, Minecraft wiki, 萌娘百科)
 + Non-neutral or AD wiki (For example, 百度百科，互动百科)
+
+## Considering
+
++ https://gutenberg.org/
++ https://www.aozora.gr.jp/
