@@ -15,7 +15,7 @@ But if added them to one chart, that will let people know how many you have did 
 ## Support Guideline
 
 1. The Community should be public and visible to the Internet, not in a private website or need to log in to spider information.
-2. The Community should allow a newly register user to make sensible changes, review and censore are not have to do.
+2. The Community should allow a newly register user to make sensible changes, review and censore are not have to do. (Validator is allowed, such as Wikipedia)
 3. Basic feature are free, and will not be charged in the future
 
 ## Support Communities
@@ -29,8 +29,8 @@ But if added them to one chart, that will let people know how many you have did 
 
 ### Wiki
 
-+ Wikimedia Project (All language wiki is include)
-+ Arch Wiki
++ Wikimedia Project (All language wiki is include, and wikibooks also include, but except Wikimedia)
++ ~~Arch Wiki~~ (Considering whether is another kind of Fans wiki)
 
 ### Translation
 
@@ -39,7 +39,11 @@ But if added them to one chart, that will let people know how many you have did 
 ### Others
 
 + ~~CTAN~~ (Considering)
-+ OpenStreetMap
++ OpenStreetMap (Use HDYC data)
+
+### Only one-time
+
++ ~~ORCID (Use publish date)~~ (Considering)
 
 ## Won't Support
 
