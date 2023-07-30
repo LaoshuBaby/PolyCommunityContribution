@@ -29,7 +29,7 @@ But if added them to one chart, that will let people know how many you have did 
 
 ### Wiki
 
-+ Wikimedia Project (All language wiki is include, and wikibooks also include, but except Wikimedia)
++ https://gerrit.wikimedia.org/r/plugins/gitiles/pywikibot/core/+/refs/heads/master/pywikibot/families/ pywikibot承认的应该doukeyi(All language) #没想到居然支持osmwiki # 加上qw
 + ~~Arch Wiki~~ (Considering whether is another kind of Fans wiki)
 
 ### Translation
