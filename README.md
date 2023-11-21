@@ -26,6 +26,15 @@ But if added them to one chart, that will let people know how many you have did 
 + Gitee
 + ~~GitLab (Only main site)~~ (Considering)
 + ~~Other private git but famous，such as linux kernel~~ (Considering)
++ Gitea (only main site)
++ Codeberg (A Gitea fork)
+
+### 代码部分坚决忽略不计的
+
+（技术不中立（可能受商业干扰或作为开源商业模式宣传的一部分的）的托管平台）
+
++ CCF Gitlink （确实开源）：https://www.gitlink.org.cn/
++ AtomGit (开放原子基金会）：https://atomgit.com/
 
 ### Wiki
 
