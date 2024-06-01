@@ -72,6 +72,8 @@ But if added them to one chart, that will let people know how many you have did 
 
 欢迎您试试其他能实现类似效果的项目！
 
+* https://github.com/yihong0618/GitHubPoster
+
 * Wonderful.dev
 
 ![Screenshot 2024-02-11 at 17-12-13 Wonderful Dev](https://github.com/LaoshuBaby/PolyCommunityContribution/assets/42690037/ddc56d7b-9258-4b1f-99dc-f6de927c8c41)
